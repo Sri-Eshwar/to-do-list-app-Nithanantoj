@@ -1,16 +1,36 @@
-# to_do_app
+# To-Do App
 
-A new Flutter project.
+## Description
+A simple To-Do application built with Flutter that allows users to manage their tasks efficiently. Users can add, delete, and mark tasks as completed.
 
-## Getting Started
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sri-Eshwar/to-do-list-app-Nithanantoj.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd to-do-list-app-Nithanantoj
+   ```
+3. Install the dependencies:
+   ```bash
+   flutter pub get
+   ```
 
-This project is a starting point for a Flutter application.
+## Usage
+To run the application, use the following command:
+```bash
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+![Screenshot](../assets/Screenshot.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video
+[Watch the video demonstration](../assets/ScreenRecording.mp4)
+
+## License
+This project is licensed under the MIT License.
